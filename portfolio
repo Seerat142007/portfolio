@@ -26,4 +26,4 @@ Email: student@university.edu
 EOF
 
 git add portfolio.md
-git commit -m "Initial portfolio"
+git commit -m "Update skills from desktop"
