@@ -8,7 +8,7 @@ cat > portfolio.md << 'EOF'
 # My Portfolio
 
 ## About Me
-Name: [Your Name]
+Name: Seerat kaur
 Major: Computer Science
 
 ## Skills
@@ -22,7 +22,7 @@ Major: Computer Science
 - Project 2: TBD
 
 ## Contact
-Email: student@university.edu
+Email: skaur1351@myseneca.ca
 EOF
 
 git add portfolio.md
